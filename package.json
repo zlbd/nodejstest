@@ -1,0 +1,27 @@
+{
+  "name": "nodejstest",
+  "version": "1.0.0",
+  "description": "This is a test project for myself",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zlbd",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^1.4.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zlbd/nodejstest.git"
+  },
+  "keywords": [
+    "just",
+    "for",
+    "test"
+  ],
+  "bugs": {
+    "url": "https://github.com/zlbd/nodejstest/issues"
+  },
+  "homepage": "https://github.com/zlbd/nodejstest#readme"
+}
